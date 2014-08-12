@@ -1,0 +1,61 @@
+/* color modifications */
+body {
+    background-color: #FFF;
+    background: url("../images/background.png") repeat;
+}
+
+a, a:hover {
+    color:#FFF !important;
+    }
+	
+.loadingicon {
+    color:#FFF;}
+
+.maincolor, .maincolor li, .maincolor li a, #footer a {
+    background-color: #027353 !important;
+    color: #FFF !important;
+}
+
+.maincolor li a:hover, .maincolor > li > a:hover {
+    background-color: #044C29 !important;
+    color: #BBB !important;
+}
+
+.contrastcolor, .contrastcolor li, .contrastcolor li a, .dropdown-menu li > a:hover, .dropdown-menu li > a:focus, .dropdown-submenu:hover > a {
+    background-color: #044C29 !important;
+    color: #BBB !important;
+    background-image: none;
+}
+
+.contrastcolor li a:hover, .contrastcolor > li > a:hover {
+    background-color: #027353 !important;
+    color: #FFF !important;
+    background-image: none;
+}
+
+.item, .window {
+    color:#fff;    
+    background-color: rgba(255, 255, 255, 0.2);
+	background: #333\9; /* IE 8 and below */
+}
+    
+.color1 .highlight, .color1 .highlight a {
+    background-color:#59338A;
+    color:#fff;
+}
+    
+.color2 .highlight, .color2 .highlight a {
+    background-color:#85114B;
+    color:#fff;
+}
+    
+.color3 .highlight, .color3 .highlight a {
+    background-color:#83B12D;
+    color:#fff;
+}
+    
+.color4 .highlight, .color4 .highlight a {
+    background-color:#A6A219;
+    color:#fff;
+}
+    
